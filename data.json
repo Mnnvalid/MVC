@@ -1,0 +1,361 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "69000001",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000002",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000003",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000004",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000005",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000006",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000007",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000008",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000009",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "69000010",
+      "password": "123",
+      "role": "student"
+    }
+  ],
+  "students": [
+    {
+      "student_id": "69000001",
+      "title": "นาย",
+      "first_name": "สมชาย",
+      "last_name": "มาดี",
+      "birth_date": "2008-01-30",
+      "school": "โรงเรียนเตรียมอุดมศึกษา",
+      "email": "somchai30@gmail.com",
+      "program_id": "25681101"
+    },
+    {
+      "student_id": "69000002",
+      "title": "นาย",
+      "first_name": "สมหมาย",
+      "last_name": "มีสุข",
+      "birth_date": "2007-07-17",
+      "school": "โรงเรียนสาธิตปทุมวัน",
+      "email": "sommaii17@gmail.com",
+      "program_id": "25681102"
+    },
+    {
+      "student_id": "69000003",
+      "title": "นางสาว",
+      "first_name": "ลลิน",
+      "last_name": "สุขีวัฒนา",
+      "birth_date": "2008-02-04",
+      "school": "โรงเรียนใฝ่รู้วิทยาคม",
+      "email": "rarin04@gmail.com",
+      "program_id": "25681101"
+    },
+    {
+      "student_id": "69000004",
+      "title": "นาย",
+      "first_name": "ภาคภูมิ",
+      "last_name": "พากเพียร",
+      "birth_date": "2007-09-14",
+      "school": "โรงเรียนเตรียมอุดมศึกษา",
+      "email": "pakpum14@gmail.com",
+      "program_id": "25681102"
+    },
+    {
+      "student_id": "69000005",
+      "title": "นางสาว",
+      "first_name": "สมาย",
+      "last_name": "ยินดียิ่ง",
+      "birth_date": "2007-12-10",
+      "school": "โรงเรียนสวนกุหลาบวิทยาลัย",
+      "email": "smile10@gmail.com",
+      "program_id": "25681102"
+    },
+    {
+      "student_id": "69000006",
+      "title": "นางสาว",
+      "first_name": "สายสมร",
+      "last_name": "สุขสวัสดิ์",
+      "birth_date": "2007-10-23",
+      "school": "โรงเรียนใฝ่รู้วิทยาคม",
+      "email": "saisamon23@gmail.com",
+      "program_id": "25681101"
+    },
+    {
+      "student_id": "69000007",
+      "title": "นางสาว",
+      "first_name": "สมศรี",
+      "last_name": "มานะมีมาก",
+      "birth_date": "2008-04-26",
+      "school": "โรงเรียนสาธิตปทุมวัน",
+      "email": "somsee26@gmail.com",
+      "program_id": "25681101"
+    },
+    {
+      "student_id": "69000008",
+      "title": "นาย",
+      "first_name": "สมศักดิ์",
+      "last_name": "เจริญสวัสดิ์",
+      "birth_date": "2007-08-09",
+      "school": "โรงเรียนสาธิตปทุมวัน",
+      "email": "somsuk09@gmail.com",
+      "program_id": "25681102"
+    },
+    {
+      "student_id": "69000009",
+      "title": "นาย",
+      "first_name": "สมปอง",
+      "last_name": "มั่งคั่งมั่นคง",
+      "birth_date": "2007-11-22",
+      "school": "โรงเรียนสวนกุหลาบวิทยาลัย",
+      "email": "sompong22@gmail.com",
+      "program_id": "25681102"
+    },
+    {
+      "student_id": "69000010",
+      "title": "นางสาว",
+      "first_name": "สมหญิง",
+      "last_name": "สามัคคี",
+      "birth_date": "2008-01-01",
+      "school": "โรงเรียนสวนกุหลาบวิทยาลัย",
+      "email": "somying01@gmail.com",
+      "program_id": "25681101"
+    }
+  ],
+  "subjects": [
+    {
+      "subject_id": "05501101",
+      "name": "Computer Science",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.สมเกียรติ",
+      "รหัสวิชาบังคับก่อน": null
+    },
+    {
+      "subject_id": "05501102",
+      "name": "Data Structures",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.วิริยา",
+      "รหัสวิชาบังคับก่อน": "05501101"
+    },
+    {
+      "subject_id": "05501201",
+      "name": "Discrete Mathemetics",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.ประเสริฐ",
+      "รหัสวิชาบังคับก่อน": null
+    },
+    {
+      "subject_id": "05501202",
+      "name": "Object-Oriented Programming",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.จรัญ",
+      "รหัสวิชาบังคับก่อน": "05501101"
+    },
+    {
+      "subject_id": "90691001",
+      "name": "English for Communication",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.รมิดา",
+      "รหัสวิชาบังคับก่อน": null
+    },
+    {
+      "subject_id": "90691002",
+      "name": "Critical Thinking",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.อัจฉรา",
+      "รหัสวิชาบังคับก่อน": null
+    },
+    {
+      "subject_id": "05501301",
+      "name": "Database",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.สมเกียรติ",
+      "รหัสวิชาบังคับก่อน": "05501102"
+    },
+    {
+      "subject_id": "05501402",
+      "name": "Software Engineering",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.จิระ",
+      "รหัสวิชาบังคับก่อน": "05501101"
+    },
+    {
+      "subject_id": "90692001",
+      "name": "Investment Planning",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.เกียรติศักดิ์",
+      "รหัสวิชาบังคับก่อน": null
+    },
+    {
+      "subject_id": "90692002",
+      "name": "Digital Storytelling",
+      "credits": 3,
+      "อาจารย์ผู้สอน": "อ.วรา",
+      "รหัสวิชาบังคับก่อน": null
+    }
+  ],
+  "subject_structure": [
+    {
+      "program_id": "25681101",
+      "program_name": "หลักสูตรวิทยาการคอมพิวเตอร์",
+      "ชื่อภาควิชา": "วิทยาการคอมพิวเตอร์",
+      "subject_id": "05501101",
+      "เทอมที่เปิดสอน": 1
+    },
+    {
+      "program_id": "25681101",
+      "program_name": "หลักสูตรวิทยาการคอมพิวเตอร์",
+      "ชื่อภาควิชา": "วิทยาการคอมพิวเตอร์",
+      "subject_id": "05501201",
+      "เทอมที่เปิดสอน": 1
+    },
+    {
+      "program_id": "25681101",
+      "program_name": "หลักสูตรวิทยาการคอมพิวเตอร์",
+      "ชื่อภาควิชา": "วิทยาการคอมพิวเตอร์",
+      "subject_id": "90691001",
+      "เทอมที่เปิดสอน": 1
+    },
+    {
+      "program_id": "25681101",
+      "program_name": "หลักสูตรวิทยาการคอมพิวเตอร์",
+      "ชื่อภาควิชา": "วิทยาการคอมพิวเตอร์",
+      "subject_id": "05501102",
+      "เทอมที่เปิดสอน": 2
+    },
+    {
+      "program_id": "25681101",
+      "program_name": "หลักสูตรวิทยาการคอมพิวเตอร์",
+      "ชื่อภาควิชา": "วิทยาการคอมพิวเตอร์",
+      "subject_id": "05501201",
+      "เทอมที่เปิดสอน": 2
+    },
+    {
+      "program_id": "25681101",
+      "program_name": "หลักสูตรวิทยาการคอมพิวเตอร์",
+      "ชื่อภาควิชา": "วิทยาการคอมพิวเตอร์",
+      "subject_id": "90691002",
+      "เทอมที่เปิดสอน": 2
+    },
+    {
+      "program_id": "25681102",
+      "program_name": "หลักสูตรเทคโนโลยีสารสนเทศ",
+      "ชื่อภาควิชา": "เทคโนโลยีสารสนเทศ",
+      "subject_id": "05501101",
+      "เทอมที่เปิดสอน": 1
+    },
+    {
+      "program_id": "25681102",
+      "program_name": "หลักสูตรเทคโนโลยีสารสนเทศ",
+      "ชื่อภาควิชา": "เทคโนโลยีสารสนเทศ",
+      "subject_id": "90691001",
+      "เทอมที่เปิดสอน": 1
+    },
+    {
+      "program_id": "25681102",
+      "program_name": "หลักสูตรเทคโนโลยีสารสนเทศ",
+      "ชื่อภาควิชา": "เทคโนโลยีสารสนเทศ",
+      "subject_id": "05501102",
+      "เทอมที่เปิดสอน": 1
+    },
+    {
+      "program_id": "25681102",
+      "program_name": "หลักสูตรเทคโนโลยีสารสนเทศ",
+      "ชื่อภาควิชา": "เทคโนโลยีสารสนเทศ",
+      "subject_id": "05501102",
+      "เทอมที่เปิดสอน": 2
+    },
+    {
+      "program_id": "25681102",
+      "program_name": "หลักสูตรเทคโนโลยีสารสนเทศ",
+      "ชื่อภาควิชา": "เทคโนโลยีสารสนเทศ",
+      "subject_id": "05501401",
+      "เทอมที่เปิดสอน": 2
+    },
+    {
+      "program_id": "25681102",
+      "program_name": "หลักสูตรเทคโนโลยีสารสนเทศ",
+      "ชื่อภาควิชา": "เทคโนโลยีสารสนเทศ",
+      "subject_id": "90692001",
+      "เทอมที่เปิดสอน": 2
+    }
+  ],
+  "registered_subjects": [
+    {
+      "student_id": "69000001",
+      "subject_id": "05501101",
+      "grade": "A"
+    },
+    {
+      "student_id": "69000001",
+      "subject_id": "05501201",
+      "grade": "C+"
+    },
+    {
+      "student_id": "69000002",
+      "subject_id": "05501101",
+      "grade": "F"
+    },
+    {
+      "student_id": "69000003",
+      "subject_id": "05501101",
+      "grade": "C"
+    },
+    {
+      "student_id": "69000002",
+      "subject_id": "90691001",
+      "grade": null
+    },
+    {
+      "student_id": "69000002",
+      "subject_id": "90692001",
+      "grade": null
+    },
+    {
+      "student_id": "69000001",
+      "subject_id": "90691002",
+      "grade": null
+    },
+    {
+      "student_id": "69000001",
+      "subject_id": "90691001",
+      "grade": "B"
+    }
+  ]
+}
